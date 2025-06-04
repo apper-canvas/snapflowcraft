@@ -4,7 +4,7 @@ export default {
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
-  theme: {
+theme: {
     extend: {
       colors: {
         primary: {
@@ -18,6 +18,7 @@ export default {
           dark: '#000000'
         },
         accent: '#FF0080',
+        border: '#cbd5e1',
         surface: {
           50: '#f8fafc',
           100: '#f1f5f9',
