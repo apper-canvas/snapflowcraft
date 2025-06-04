@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 import { motion } from 'framer-motion'
-import MainFeature from '../components/MainFeature'
+import MainFeatureTemplate from '../components/templates/MainFeatureTemplate'
 import ApperIcon from '../components/ApperIcon'
 
 const Home = () => {
@@ -113,14 +113,12 @@ const Home = () => {
                 <h3 className="font-semibold text-xs md:text-sm text-white mb-1">{feature.label}</h3>
                 <p className="text-xs text-surface-400">{feature.desc}</p>
               </motion.div>
-            ))}
+))}
           </div>
         </motion.section>
 
         {/* Main Interactive Feature */}
-        <MainFeature />
-
-        {/* Quick Stats */}
+        <MainFeatureTemplate />
         <motion.section
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
