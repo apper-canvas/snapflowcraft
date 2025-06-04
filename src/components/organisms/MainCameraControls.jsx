@@ -12,9 +12,9 @@ import { motion, AnimatePresence } from 'framer-motion';
         setTimer,
         showTimerSelect,
         setShowTimerSelect
-      }) => {
+}) => {
         return (
-          &lt;&gt;
+          <>
             <div className="flex items-center justify-center space-x-6 md:space-x-8 px-4">
               {/* Mode toggle */}
               <Button
@@ -91,7 +91,7 @@ import { motion, AnimatePresence } from 'framer-motion';
                     ))}
                   </div>
                 </motion.div>
-              )}
+)}
             </AnimatePresence>
           </>
         );
