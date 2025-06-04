@@ -1,0 +1,236 @@
+[
+  {
+    "id": "edit_001",
+    "snapId": "snap_001",
+    "drawings": [],
+    "texts": [
+      {
+        "id": "text_001",
+        "text": "Good morning!",
+        "x": 50,
+        "y": 100,
+        "color": "#FFFC00",
+        "fontSize": 24,
+        "fontFamily": "Arial",
+        "rotation": 0
+      }
+    ],
+    "stickers": [],
+    "createdAt": "2024-01-15T10:31:00Z"
+  },
+  {
+    "id": "edit_002",
+    "snapId": "snap_002",
+    "drawings": [
+      {
+        "id": "draw_001",
+        "path": "M10,10 L50,50 L90,10",
+        "color": "#FF0080",
+        "width": 3,
+        "opacity": 1
+      }
+    ],
+    "texts": [],
+    "stickers": [
+      {
+        "id": "sticker_001",
+        "type": "heart",
+        "x": 200,
+        "y": 150,
+        "scale": 1.0,
+        "rotation": 0
+      }
+    ],
+    "createdAt": "2024-01-15T14:21:00Z"
+  },
+  {
+    "id": "edit_003",
+    "snapId": "snap_004",
+    "drawings": [],
+    "texts": [
+      {
+        "id": "text_002",
+        "text": "Night vibes ✨",
+        "x": 30,
+        "y": 400,
+        "color": "#FFFFFF",
+        "fontSize": 20,
+        "fontFamily": "Helvetica",
+        "rotation": -5
+      }
+    ],
+    "stickers": [],
+    "createdAt": "2024-01-14T22:16:00Z"
+  },
+  {
+    "id": "edit_004",
+    "snapId": "snap_005",
+    "drawings": [
+      {
+        "id": "draw_002",
+        "path": "M100,100 Q150,50 200,100",
+        "color": "#FFFC00",
+        "width": 5,
+        "opacity": 0.8
+      }
+    ],
+    "texts": [
+      {
+        "id": "text_003",
+        "text": "Adventure time!",
+        "x": 80,
+        "y": 50,
+        "color": "#FF0080",
+        "fontSize": 28,
+        "fontFamily": "Impact",
+        "rotation": 10
+      }
+    ],
+    "stickers": [
+      {
+        "id": "sticker_002",
+        "type": "camera",
+        "x": 300,
+        "y": 500,
+        "scale": 1.2,
+        "rotation": 15
+      }
+    ],
+    "createdAt": "2024-01-14T08:31:00Z"
+  },
+  {
+    "id": "edit_005",
+    "snapId": "snap_007",
+    "drawings": [],
+    "texts": [
+      {
+        "id": "text_004",
+        "text": "Tech life 💻",
+        "x": 60,
+        "y": 80,
+        "color": "#00FF00",
+        "fontSize": 22,
+        "fontFamily": "Monaco",
+        "rotation": 0
+      }
+    ],
+    "stickers": [
+      {
+        "id": "sticker_003",
+        "type": "laptop",
+        "x": 150,
+        "y": 300,
+        "scale": 0.8,
+        "rotation": -10
+      }
+    ],
+    "createdAt": "2024-01-13T12:31:00Z"
+  },
+  {
+    "id": "edit_006",
+    "snapId": "snap_008",
+    "drawings": [
+      {
+        "id": "draw_003",
+        "path": "M50,400 L350,400",
+        "color": "#FFFC00",
+        "width": 4,
+        "opacity": 1
+      }
+    ],
+    "texts": [],
+    "stickers": [],
+    "createdAt": "2024-01-12T20:46:00Z"
+  },
+  {
+    "id": "edit_007",
+    "snapId": "snap_009",
+    "drawings": [],
+    "texts": [
+      {
+        "id": "text_005",
+        "text": "Portrait mode",
+        "x": 100,
+        "y": 520,
+        "color": "#FFFFFF",
+        "fontSize": 18,
+        "fontFamily": "Helvetica",
+        "rotation": 0
+      }
+    ],
+    "stickers": [],
+    "createdAt": "2024-01-12T15:21:00Z"
+  },
+  {
+    "id": "edit_008",
+    "snapId": "snap_010",
+    "drawings": [
+      {
+        "id": "draw_004",
+        "path": "M0,0 Q200,300 400,600",
+        "color": "#FF0080",
+        "width": 6,
+        "opacity": 0.7
+      }
+    ],
+    "texts": [
+      {
+        "id": "text_006",
+        "text": "Morning run 🏃‍♂️",
+        "x": 50,
+        "y": 200,
+        "color": "#FFFC00",
+        "fontSize": 26,
+        "fontFamily": "Arial Black",
+        "rotation": -3
+      }
+    ],
+    "stickers": [
+      {
+        "id": "sticker_004",
+        "type": "fire",
+        "x": 320,
+        "y": 100,
+        "scale": 1.5,
+        "rotation": 20
+      }
+    ],
+    "createdAt": "2024-01-11T09:16:00Z"
+  },
+  {
+    "id": "edit_009",
+    "snapId": "snap_011",
+    "drawings": [],
+    "texts": [],
+    "stickers": [
+      {
+        "id": "sticker_005",
+        "type": "heart",
+        "x": 200,
+        "y": 300,
+        "scale": 1.0,
+        "rotation": 0
+      }
+    ],
+    "createdAt": "2024-01-10T17:31:00Z"
+  },
+  {
+    "id": "edit_010",
+    "snapId": "snap_012",
+    "drawings": [],
+    "texts": [
+      {
+        "id": "text_007",
+        "text": "Study time 📚",
+        "x": 40,
+        "y": 450,
+        "color": "#000000",
+        "fontSize": 20,
+        "fontFamily": "Times New Roman",
+        "rotation": 2
+      }
+    ],
+    "stickers": [],
+    "createdAt": "2024-01-10T11:46:00Z"
+  }
+]

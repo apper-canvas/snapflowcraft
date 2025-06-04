@@ -1,0 +1,37 @@
+[
+  {
+    "id": "story_001",
+    "title": "Weekend Adventure",
+    "snapIds": ["snap_001", "snap_003", "snap_005"],
+    "createdAt": "2024-01-15T10:30:00Z",
+    "lastUpdated": "2024-01-15T16:45:00Z"
+  },
+  {
+    "id": "story_002",
+    "title": "Night Out",
+    "snapIds": ["snap_004", "snap_008"],
+    "createdAt": "2024-01-14T22:15:00Z",
+    "lastUpdated": "2024-01-14T22:15:00Z"
+  },
+  {
+    "id": "story_003",
+    "title": "Work From Home",
+    "snapIds": ["snap_007", "snap_012"],
+    "createdAt": "2024-01-13T12:30:00Z",
+    "lastUpdated": "2024-01-13T12:30:00Z"
+  },
+  {
+    "id": "story_004",
+    "title": "Travel Memories",
+    "snapIds": ["snap_009", "snap_010"],
+    "createdAt": "2024-01-12T15:20:00Z",
+    "lastUpdated": "2024-01-12T15:20:00Z"
+  },
+  {
+    "id": "story_005",
+    "title": "Daily Life",
+    "snapIds": ["snap_002", "snap_006", "snap_011"],
+    "createdAt": "2024-01-10T17:30:00Z",
+    "lastUpdated": "2024-01-15T14:20:00Z"
+  }
+]

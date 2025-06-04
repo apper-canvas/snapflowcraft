@@ -1,0 +1,206 @@
+[
+  {
+    "id": "snap_001",
+    "type": "photo",
+    "mediaUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=600&fit=crop",
+    "thumbnail": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=200&h=300&fit=crop",
+    "duration": 0,
+    "createdAt": "2024-01-15T10:30:00Z",
+    "expiresAt": "2024-01-15T10:33:00Z",
+    "filters": ["filter_001"],
+    "edits": {
+      "drawings": [],
+      "texts": [{"text": "Good morning!", "x": 50, "y": 100, "color": "#FFFC00"}],
+      "stickers": []
+    },
+    "location": {"lat": 40.7128, "lng": -74.0060},
+    "isArchived": false
+  },
+  {
+    "id": "snap_002",
+    "type": "video",
+    "mediaUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=400&h=600&fit=crop",
+    "thumbnail": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=200&h=300&fit=crop",
+    "duration": 15,
+    "createdAt": "2024-01-15T14:20:00Z",
+    "expiresAt": null,
+    "filters": ["filter_003"],
+    "edits": {
+      "drawings": [{"path": "M10,10 L50,50", "color": "#FF0080", "width": 3}],
+      "texts": [],
+      "stickers": [{"id": "heart", "x": 200, "y": 150}]
+    },
+    "location": null,
+    "isArchived": false
+  },
+  {
+    "id": "snap_003",
+    "type": "photo",
+    "mediaUrl": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?w=400&h=600&fit=crop",
+    "thumbnail": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?w=200&h=300&fit=crop",
+    "duration": 0,
+    "createdAt": "2024-01-15T16:45:00Z",
+    "expiresAt": "2024-01-15T16:50:00Z",
+    "filters": [],
+    "edits": {
+      "drawings": [],
+      "texts": [],
+      "stickers": []
+    },
+    "location": {"lat": 34.0522, "lng": -118.2437},
+    "isArchived": false
+  },
+  {
+    "id": "snap_004",
+    "type": "video",
+    "mediaUrl": "https://images.unsplash.com/photo-1494790108755-2616c85ad4fe?w=400&h=600&fit=crop",
+    "thumbnail": "https://images.unsplash.com/photo-1494790108755-2616c85ad4fe?w=200&h=300&fit=crop",
+    "duration": 8,
+    "createdAt": "2024-01-14T22:15:00Z",
+    "expiresAt": "2024-01-14T22:23:00Z",
+    "filters": ["filter_002", "filter_004"],
+    "edits": {
+      "drawings": [],
+      "texts": [{"text": "Night vibes ✨", "x": 30, "y": 400, "color": "#FFFFFF"}],
+      "stickers": []
+    },
+    "location": null,
+    "isArchived": false
+  },
+  {
+    "id": "snap_005",
+    "type": "photo",
+    "mediaUrl": "https://images.unsplash.com/photo-1527980965255-d3b416303d12?w=400&h=600&fit=crop",
+    "thumbnail": "https://images.unsplash.com/photo-1527980965255-d3b416303d12?w=200&h=300&fit=crop",
+    "duration": 0,
+    "createdAt": "2024-01-14T08:30:00Z",
+    "expiresAt": null,
+    "filters": ["filter_005"],
+    "edits": {
+      "drawings": [{"path": "M100,100 Q150,50 200,100", "color": "#FFFC00", "width": 5}],
+      "texts": [{"text": "Adventure time!", "x": 80, "y": 50, "color": "#FF0080"}],
+      "stickers": [{"id": "camera", "x": 300, "y": 500}]
+    },
+    "location": {"lat": 51.5074, "lng": -0.1278},
+    "isArchived": false
+  },
+  {
+    "id": "snap_006",
+    "type": "photo",
+    "mediaUrl": "https://images.unsplash.com/photo-1519985176271-adb1088fa94c?w=400&h=600&fit=crop",
+    "thumbnail": "https://images.unsplash.com/photo-1519985176271-adb1088fa94c?w=200&h=300&fit=crop",
+    "duration": 0,
+    "createdAt": "2024-01-13T18:00:00Z",
+    "expiresAt": "2024-01-13T18:10:00Z",
+    "filters": [],
+    "edits": {
+      "drawings": [],
+      "texts": [],
+      "stickers": []
+    },
+    "location": null,
+    "isArchived": true
+  },
+  {
+    "id": "snap_007",
+    "type": "video",
+    "mediaUrl": "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=400&h=600&fit=crop",
+    "thumbnail": "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=200&h=300&fit=crop",
+    "duration": 12,
+    "createdAt": "2024-01-13T12:30:00Z",
+    "expiresAt": null,
+    "filters": ["filter_001", "filter_003"],
+    "edits": {
+      "drawings": [],
+      "texts": [{"text": "Tech life 💻", "x": 60, "y": 80, "color": "#00FF00"}],
+      "stickers": [{"id": "laptop", "x": 150, "y": 300}]
+    },
+    "location": {"lat": 37.7749, "lng": -122.4194},
+    "isArchived": false
+  },
+  {
+    "id": "snap_008",
+    "type": "photo",
+    "mediaUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=600&fit=crop",
+    "thumbnail": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&h=300&fit=crop",
+    "duration": 0,
+    "createdAt": "2024-01-12T20:45:00Z",
+    "expiresAt": "2024-01-12T20:48:00Z",
+    "filters": ["filter_004"],
+    "edits": {
+      "drawings": [{"path": "M50,400 L350,400", "color": "#FFFC00", "width": 4}],
+      "texts": [],
+      "stickers": []
+    },
+    "location": null,
+    "isArchived": false
+  },
+  {
+    "id": "snap_009",
+    "type": "photo",
+    "mediaUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=600&fit=crop",
+    "thumbnail": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200&h=300&fit=crop",
+    "duration": 0,
+    "createdAt": "2024-01-12T15:20:00Z",
+    "expiresAt": null,
+    "filters": ["filter_002"],
+    "edits": {
+      "drawings": [],
+      "texts": [{"text": "Portrait mode", "x": 100, "y": 520, "color": "#FFFFFF"}],
+      "stickers": []
+    },
+    "location": {"lat": 48.8566, "lng": 2.3522},
+    "isArchived": false
+  },
+  {
+    "id": "snap_010",
+    "type": "video",
+    "mediaUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=600&fit=crop",
+    "thumbnail": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=200&h=300&fit=crop",
+    "duration": 20,
+    "createdAt": "2024-01-11T09:15:00Z",
+    "expiresAt": "2024-01-11T09:35:00Z",
+    "filters": ["filter_005"],
+    "edits": {
+      "drawings": [{"path": "M0,0 Q200,300 400,600", "color": "#FF0080", "width": 6}],
+      "texts": [{"text": "Morning run 🏃‍♂️", "x": 50, "y": 200, "color": "#FFFC00"}],
+      "stickers": [{"id": "fire", "x": 320, "y": 100}]
+    },
+    "location": {"lat": 35.6762, "lng": 139.6503},
+    "isArchived": false
+  },
+  {
+    "id": "snap_011",
+    "type": "photo",
+    "mediaUrl": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?w=400&h=600&fit=crop",
+    "thumbnail": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?w=200&h=300&fit=crop",
+    "duration": 0,
+    "createdAt": "2024-01-10T17:30:00Z",
+    "expiresAt": null,
+    "filters": [],
+    "edits": {
+      "drawings": [],
+      "texts": [],
+      "stickers": [{"id": "heart", "x": 200, "y": 300}]
+    },
+    "location": null,
+    "isArchived": false
+  },
+  {
+    "id": "snap_012",
+    "type": "photo",
+    "mediaUrl": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=400&h=600&fit=crop",
+    "thumbnail": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=200&h=300&fit=crop",
+    "duration": 0,
+    "createdAt": "2024-01-10T11:45:00Z",
+    "expiresAt": "2024-01-10T11:55:00Z",
+    "filters": ["filter_001", "filter_004"],
+    "edits": {
+      "drawings": [],
+      "texts": [{"text": "Study time 📚", "x": 40, "y": 450, "color": "#000000"}],
+      "stickers": []
+    },
+    "location": {"lat": 41.9028, "lng": 12.4964},
+    "isArchived": false
+  }
+]
